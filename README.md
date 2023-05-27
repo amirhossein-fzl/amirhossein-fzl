@@ -22,7 +22,7 @@ I have started learning programming professionally since 2018 and I am still con
 [![](https://visitcount.itsvg.in/api?id=amirhossein-fzl&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amirhossein_fzl) 
+  Etherume (or USDT on erc20 network): `0xf6CD13ca152CdaAa59510E9E2e0F42a0385c987e`
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
